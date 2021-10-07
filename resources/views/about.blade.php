@@ -34,36 +34,36 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header fixed-top">
+  <header id="header" class="header fixed-top border-bottom border-light">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="/" class="logo d-flex align-items-center">
-        <img src="assets/img/logo-casturi-png.png" alt="">
-        <span>casturi</span>
+        <img src="assets/img/logo casturi.png"  alt="logo-casturi">
+        <img src="assets/img/logo casturi tulisan.png"  alt="logo-casturi" width="150px">
       </a>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto " href="/">Home</a></li>
           <li><a class="nav-link scrollto active" href="/about">About</a></li>
-          <li><a class="nav-link scrollto" href="/news">News</a></li>
+          <li><a class="nav-link scrollto " href="/news">News</a></li>
         
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
     </div>
-  </header><!-- End Header -->
+  </header>
 
  
   <main id="main">
-  <section id="leader" class="team">
+  <section id="team" class="team">
 
 <div class="container" data-aos="fade-up" style="margin: 0 auto;">
 
   <header class="section-header">
-    <h2>Team</h2>
-    <p>Casturi</p>
+    <h2 style="margin-bottom: 50px;"></h2>
+    <p>Team Casturi</p>
   </header>
 
   <div class="row gy-4" >
@@ -172,8 +172,15 @@
     <div class="footer-top">
       <div class="container">
         <div class="row gy-4">
-          <div class="col-lg-5 col-md-12 footer-info">
-            <a href="index.html" class="logo d-flex align-items-center">
+          <div class="col-lg-3 col-md-12 footer-info">
+          <h4>Hubungi Kami</h4>
+            <p>
+              Sokaraja, Kab. Banyumas, 53181
+              Jawa Tengah, Indonesia <br><br>
+              <strong>Phone:</strong> +62 897-9957-587<br>
+              <strong>Email:</strong> casturi@gmail.com <br>
+            </p>  
+          <!-- <a href="index.html" class="logo d-flex align-items-center">
               <img src="assets/img/logo-casturi.jpg" alt="">
               <span>Casturi</span>
             </a>
@@ -183,7 +190,7 @@
               <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
               <a href="https://www.instagram.com/icasturi/" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
     
-            </div>
+            </div> -->
           </div>
 
           <div class="col-lg-2 col-6 footer-links">
@@ -191,32 +198,39 @@
           </div>
           
 
-          <div class="col-lg-2 col-6 footer-links">
-            
+          <div class="col-lg-4 col-6 footer-links">
+         
           </div>
-
           <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-            <h4>Hubungi Kami</h4>
-            <p>
-              Sokaraja, Kab. Banyumas, 53181
-              Jawa Tengah, Indonesia <br><br>
-              <strong>Phone:</strong> +628888888888<br>
-              <strong>Email:</strong> casturi@gmail.com <br>
+            <h4>Find us on</h4>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi - Case Smartphone Antibakteri
             </p>
-
+            <p style="margin-bottom: 0;">
+            <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Icasturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.instagram.com/icasturi/" class="instagram"><img src="assets/img/logo-instagram.png" alt="logo-instagram" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              @icasturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.facebook.com/Casturi-105868865052379/" class="facebook"><img src="assets/img/logo-facebook.png" alt="logo-facebook" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi
+            </p>
           </div>
 
         </div>
       </div>
     </div>
-
-    <div class="container">
-      <div class="copyright">
+      <div class="copyright" style="background-color: #dfe4b8;">
         &copy; Copyright <strong><span>Casturi</span></strong>. All Rights Reserved
       </div>
-      <div class="credits">
-      </div>
-    </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

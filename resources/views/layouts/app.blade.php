@@ -8,7 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>{{ config('Casturi', 'Casturi') }}</title>
-    <link rel="icon" href="assets/img/logo-casturi.jpg">
+    <link rel="icon" href="assets/img/logo casturi.png">
 
    
 </head>

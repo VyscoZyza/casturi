@@ -12,9 +12,6 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -34,12 +31,12 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header fixed-top">
+  <header id="header" class="header fixed-top border-bottom border-light">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
       <a href="/" class="logo d-flex align-items-center">
-        <img src="assets/img/logo-casturi-png.png"  alt="logo-casturi">
-        <span>casturi</span>
+        <img src="assets/img/logo casturi.png"  alt="logo-casturi">
+        <img src="assets/img/logo casturi tulisan.png"  alt="logo-casturi" width="150px">
       </a>
 
       <nav id="navbar" class="navbar">
@@ -60,7 +57,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Casturi</h1>
+        <img data-aos="fade-up" src="assets/img/logo casturi tulisan.png"  alt="logo-casturi" width="250px">
           <h2 data-aos="fade-up" data-aos-delay="400" style="text-align: justify">Casturi merupakan singkatan dari Casing Smartphone Antibakteri. Casturi sendiri adalah produk casing smartphone yang dilapisi menggunakan nanosilver yang disintesis secara alami menggunakan daun Ketapang. Kandungan senyawa antibakteri dan anti jamur pada daun ketapang menjadikan perlindungan ganda pada casing smartphone
 </h2>
           <div data-aos="fade-up" data-aos-delay="600">
@@ -70,7 +67,7 @@
           </div>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/logo-casturi-png.png" class="img-fluid" alt="">
+          <img src="assets/img/logo casturi full.png" class="img-fluid" alt="logo casuri" width="350px">
         </div>
       </div>
     </div>
@@ -82,10 +79,9 @@
   <section id="produk" class="pricing">
 
 <div class="container" data-aos="fade-up">
-
   <header class="section-header">
-    <h2>Produk</h2>
-    <p>Produk Kami</p>
+  <div class="circle">  Produk Kami</div>
+  
   </header>
 
   <div class="row gy-1" data-aos="fade-left"  style="margin-bottom: 1000;">
@@ -105,6 +101,7 @@
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-Akrilik-i.491072552.9079177891" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
         <a href="https://www.tokopedia.com/icasturi/casturi-casing-smartphone-hp-antibakteri-dari-nanosilver-bahan-akrilik-hitam-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
 
@@ -123,6 +120,7 @@
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-TPU-i.491072552.8979665412" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
         <a href="https://www.tokopedia.com/icasturi/casturi-casing-smartphone-hp-antibakteri-dari-nanosilver-bahan-tpu-hitam-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
   </div>
@@ -153,6 +151,7 @@
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-i.491072552.8085801130" class="btn-buy" target="_blank" rel="noopener noreferrer" > <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
         <a href="https://www.tokopedia.com/icasturi/casturi-case-smartphone-hp-nasa-antibakteri-dari-nanosilver-bahan-tpu-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer" > <img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
 
@@ -171,6 +170,7 @@
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/casturiofficial" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
         <a href="https://www.tokopedia.com/icasturi" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
   </div>
@@ -184,8 +184,7 @@
 <div class="container" data-aos="fade-up">
 
   <header class="section-header">
-    <h2>Testimoni</h2>
-    <p>Apa kata mereka</p>
+    <p>Apa kata mereka?</p>
   </header>
 
   <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="200">
@@ -285,13 +284,13 @@
       <div class="container" data-aos="fade-up">
 
         <!-- Feature Icons -->
-        <div class="row feature-icons" data-aos="fade-up">
+        <div class="row feature-icons" data-aos="fade-up" style="margin-top: 0px;">
           <h3>Kenapa harus Case Antibakteri?</h3>
 
           <div class="row">
 
             <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-              <img src="assets/img/features-3.png" class="img-fluid p-4" alt="">
+              <img src="assets/img/product.png" class="img-fluid p-4" alt="produk" style="transform: rotate(-20deg);">
             </div>
 
             <div class="col-xl-8 d-flex content">
@@ -366,8 +365,15 @@
     <div class="footer-top">
       <div class="container">
         <div class="row gy-4">
-          <div class="col-lg-5 col-md-12 footer-info">
-            <a href="index.html" class="logo d-flex align-items-center">
+          <div class="col-lg-3 col-md-12 footer-info">
+          <h4>Hubungi Kami</h4>
+            <p>
+              Sokaraja, Kab. Banyumas, 53181
+              Jawa Tengah, Indonesia <br><br>
+              <strong>Phone:</strong> +62 897-9957-587<br>
+              <strong>Email:</strong> casturi@gmail.com <br>
+            </p>  
+          <!-- <a href="index.html" class="logo d-flex align-items-center">
               <img src="assets/img/logo-casturi.jpg" alt="">
               <span>Casturi</span>
             </a>
@@ -377,7 +383,7 @@
               <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
               <a href="https://www.instagram.com/icasturi/" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
     
-            </div>
+            </div> -->
           </div>
 
           <div class="col-lg-2 col-6 footer-links">
@@ -385,35 +391,42 @@
           </div>
           
 
-          <div class="col-lg-2 col-6 footer-links">
-            
+          <div class="col-lg-4 col-6 footer-links">
+         
           </div>
-
           <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-            <h4>Hubungi Kami</h4>
-            <p>
-              Sokaraja, Kab. Banyumas, 53181
-              Jawa Tengah, Indonesia <br><br>
-              <strong>Phone:</strong> +628888888888<br>
-              <strong>Email:</strong> casturi@gmail.com <br>
+            <h4>Find us on</h4>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi - Case Smartphone Antibakteri
             </p>
-
+            <p style="margin-bottom: 0;">
+            <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Icasturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.instagram.com/icasturi/" class="instagram"><img src="assets/img/logo-instagram.png" alt="logo-instagram" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              @icasturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.facebook.com/Casturi-105868865052379/" class="facebook"><img src="assets/img/logo-facebook.png" alt="logo-facebook" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi
+            </p>
           </div>
 
         </div>
       </div>
     </div>
-
-    <div class="container">
-      <div class="copyright">
+      <div class="copyright" style="background-color: #dfe4b8;">
         &copy; Copyright <strong><span>Casturi</span></strong>. All Rights Reserved
       </div>
-      <div class="credits">
-      </div>
-    </div>
   </footer><!-- End Footer -->
 
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short" style="color:#000"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
