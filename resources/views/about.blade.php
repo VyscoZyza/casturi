@@ -122,7 +122,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Fakhri</h4>
+                <h4>Fakhri Santo Khoirudin</h4>
                 <span>Manager of Production & Design</span>
               </div>
             </div>
