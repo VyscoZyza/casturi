@@ -70,7 +70,7 @@
     <div class="col-lg-3 col-md-6 d-flex cntr" data-aos="fade-up" data-aos-delay="100">
       <div class="member">
         <div class="member-img">
-          <img src="http://2.bp.blogspot.com/-rDwIz9VHByI/VO3M2F8ABGI/AAAAAAAAhpI/zbWD1ASQGy8/s1600/Gambar%2BSpongebob%2BSquarepants%2B-%2BMr.Krabs.jpg" class="img-fluid" alt="">
+          <img src="assets/img/team/Galih Wiji Agung.png" class="img-fluid" alt="">
           <div class="social">
             <a href="https://www.instagram.com/galihwijia/"><i class="bi bi-instagram"></i></a>
           </div>
@@ -99,7 +99,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" class="img-fluid" alt="">
+                <img src="assets/img/team/Risya Ulayya Maghfira.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="https://www.instagram.com/risya_ulayya/"><i class="bi bi-instagram"></i></a>
                 </div>
@@ -115,7 +115,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Squidward_Tentacles.svg/1200px-Squidward_Tentacles.svg.png" class="img-fluid" alt="">
+                <img src="assets/img/team/Fakhri Santo Khoirudin.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="https://www.instagram.com/sanfkr/"><i class="bi bi-instagram"></i></a>
 
@@ -131,7 +131,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png" class="img-fluid" alt="">
+                <img src="assets/img/team/Umi Widi Astuti.png"class="img-fluid" alt="">
                 <div class="social">
                   <a href="https://www.instagram.com/umiwidia30/"><i class="bi bi-instagram"></i></a>
 
@@ -147,7 +147,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="member">
               <div class="member-img">
-                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/1200px-Sandy_Cheeks.svg.png" class="img-fluid" alt="">
+                <img src="assets/img/team/Wakhyu Nur Afni.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href="https://www.instagram.com/wakhyunuraff/"><i class="bi bi-instagram"></i></a>
                 </div>

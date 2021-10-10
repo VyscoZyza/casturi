@@ -48,8 +48,11 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
+      
 
     </div>
+    <nav class="navbar">
+      </nav>
   </header><!-- End Header -->
 
   <section id="hero" class="hero d-flex align-items-center">
@@ -57,8 +60,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-        <img data-aos="fade-up" src="assets/img/logo casturi tulisan.png"  alt="logo-casturi" width="250px">
-          <h2 data-aos="fade-up" data-aos-delay="400" style="text-align: justify">Casturi merupakan singkatan dari Casing Smartphone Antibakteri. Casturi sendiri adalah produk casing smartphone yang dilapisi menggunakan nanosilver yang disintesis secara alami menggunakan daun Ketapang. Kandungan senyawa antibakteri dan anti jamur pada daun ketapang menjadikan perlindungan ganda pada casing smartphone
+        <img data-aos="fade-up" src="assets/img/logo casturi tulisan.png"  alt="logo-casturi" width="250px" style="margin-top: 80px;">
+          <h2 data-aos="fade-up" data-aos-delay="400" style="text-align: justify">Casturi merupakan sebuah inovasi produk casing smartphone antibakteri. Produk Casturi di-coating dengan nanosilver yang disintesis alami dengan bantuan daun ketapang. Penggunaan nanosilver dan kandungan sifat antibakteri daun ketapang menjadikan produk Casturi memiliki perlindungan ganda untuk membunuh bakteri dan mencegah penempelan bakteri jahat pada casing smartphone Anda! So, Stay Healthy and Happy Shopping with Casturi.
 </h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
@@ -90,18 +93,18 @@
       <div class="box">
         <h2 style="color: #000000;">Akrilik</h2>
        
-        <img src="assets/img/product/akrilik.jpg" width="400px" class="img-fluid" alt="">
+        <img src="assets/img/product/Foto Produk_Akrilik.jpg" width="400px" class="img-fluid" alt="">
         <ul>
-          <li>Produk yang terbuat dari bahan akrilik</li>
+          <li>Produk terbuat dari bahan akrilik yang memiliki karakteristik kokoh dan tidak mudah pecah</li>
           <!-- <li>Nec feugiat nisl</li>
           <li>Nulla at volutpat dola</li>
           <li class="na">Pharetra massa</li>
           <li class="na">Massa ultricies mi</li> -->
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
-        <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-Akrilik-i.491072552.9079177891" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://www.tokopedia.com/icasturi/casturi-casing-smartphone-hp-antibakteri-dari-nanosilver-bahan-akrilik-hitam-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-Akrilik-i.491072552.9079177891" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp;<a href="https://www.tokopedia.com/icasturi/casturi-casing-smartphone-hp-antibakteri-dari-nanosilver-bahan-akrilik-hitam-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp;<a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
 
@@ -109,18 +112,18 @@
       <div class="box">
         <h2 style="color: #000000;">TPU</h2>
        
-        <img src="assets/img/product/tpu.png" width="400px" class="img-fluid" alt="">
+        <img src="assets/img/product/Foto Produk_TPU.jpg" width="400px" class="img-fluid" alt="">
         <ul>
-          <li>Produk yang terbuat dari bahan TPU</li>
+          <li>Produk terbuat dari bahan TPU yang memiliki karakteristik lentur dan lembut digenggam</li>
           <!-- <li>Nec feugiat nisl</li>
           <li>Nulla at volutpat dola</li>
           <li class="na">Pharetra massa</li>
           <li class="na">Massa ultricies mi</li> -->
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
-        <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-TPU-i.491072552.8979665412" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://www.tokopedia.com/icasturi/casturi-casing-smartphone-hp-antibakteri-dari-nanosilver-bahan-tpu-hitam-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-TPU-i.491072552.8979665412" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp; <a href="https://www.tokopedia.com/icasturi/casturi-casing-smartphone-hp-antibakteri-dari-nanosilver-bahan-tpu-hitam-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp;<a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
   </div>
@@ -140,18 +143,18 @@
       <div class="box">
         <h2 style="color: #000000;">Nasa</h2>
        
-        <img src="assets/img/product/nasa.jpg" width="400px" class="img-fluid" alt="">
+        <img src="assets/img/product/Foto Produk_Nasa.jpg" width="400px" class="img-fluid" alt="">
         <ul>
-          <li>Produk yang terbuat dari bahan Nasa</li>
+          <li>Produk terbuat dari bahan TPU dengan gambar Nasa yang menambah kesan estetik</li>
           <!-- <li>Nec feugiat nisl</li>
           <li>Nulla at volutpat dola</li>
           <li class="na">Pharetra massa</li>
           <li class="na">Massa ultricies mi</li> -->
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
-        <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-i.491072552.8085801130" class="btn-buy" target="_blank" rel="noopener noreferrer" > <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://www.tokopedia.com/icasturi/casturi-case-smartphone-hp-nasa-antibakteri-dari-nanosilver-bahan-tpu-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer" > <img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-i.491072552.8085801130" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp;<a href="https://www.tokopedia.com/icasturi/casturi-case-smartphone-hp-nasa-antibakteri-dari-nanosilver-bahan-tpu-iphone" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp;<a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
 
@@ -159,18 +162,18 @@
       <div class="box">
         <h2 style="color: #000000;">Star</h2>
        
-        <img src="assets/img/product/tpu.png" width="400px" class="img-fluid" alt="">
+        <img src="assets/img/product/Foto Produk_Star.jpg" width="400px" class="img-fluid" alt="">
         <ul>
-          <li>Produk yang terbuat dari bahan Star</li>
+          <li>Produk terbuat dari bahan TPU dengan gambar Bintang dan Planet yang menambah kesan estetik</li>
           <!-- <li>Nec feugiat nisl</li>
           <li>Nulla at volutpat dola</li>
           <li class="na">Pharetra massa</li>
           <li class="na">Massa ultricies mi</li> -->
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
-        <a href="https://shopee.co.id/casturiofficial" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://www.tokopedia.com/icasturi" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        <a href="https://shopee.co.id/casturiofficial" class="btn-buy" target="_blank" rel="noopener noreferrer"style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp;<a href="https://www.tokopedia.com/icasturi" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
+        &nbsp; <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
       </div>
     </div>
   </div>
@@ -196,11 +199,11 @@
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p>
-            Awowkowkwo wkwowk wowkwok wokwkowkwo wkw owkw owkwok wokwkow kwowkwowkwo wkwokwwok wkowkwow wowkwowkwok wwokkowkwo wkwow wowk wokwwok
+           Bisa mengantisipasi dari bakteri berbahaya
           </p>
           <div class="profile mt-auto">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png" class="testimonial-img" alt="">
-            <h3>Budi Gunawan</h3>
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Yafinanda</h3>
             <h4>Mahasiswa</h4>
           </div>
         </div>
@@ -212,12 +215,12 @@
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p>
-          Awowkowkwo wkwowk wowkwok wokwkowkwo wkw owkw owkwok wokwkow kwowkwowkwo wkwokwwok wkowkwow wowkwowkwok wwokkowkwo wkwow wowk wokwwok
+          Nyaman dipake, casingnya tebel
           </p>
           <div class="profile mt-auto">
-            <img src="http://2.bp.blogspot.com/-rDwIz9VHByI/VO3M2F8ABGI/AAAAAAAAhpI/zbWD1ASQGy8/s1600/Gambar%2BSpongebob%2BSquarepants%2B-%2BMr.Krabs.jpg" class="testimonial-img" alt="">
-            <h3>Alex Santoso</h3>
-            <h4>Dosen</h4>
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Feni</h3>
+            <h4>Mahasiswa</h4>
           </div>
         </div>
       </div><!-- End testimonial item -->
@@ -228,12 +231,12 @@
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p>
-          Awowkowkwo wkwowk wowkwok wokwkowkwo wkw owkw owkwok wokwkow kwowkwowkwo wkwokwwok wkowkwow wowkwowkwok wwokkowkwo wkwow wowk wokwwok
+          Pegang HP jadi ga kerasa kotor dan berdebu
           </p>
           <div class="profile mt-auto">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png" class="testimonial-img" alt="">
-            <h3>Junaedi</h3>
-            <h4>Masyarakat</h4>
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Sabrina</h3>
+            <h4>Mahasiswa</h4>
           </div>
         </div>
       </div><!-- End testimonial item -->
@@ -244,12 +247,12 @@
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
           <p>
-          Awowkowkwo wkwowk wowkwok wokwkowkwo wkw owkw owkwok wokwkow kwowkwowkwo wkwokwwok wkowkwow wowkwowkwok wwokkowkwo wkwow wowk wokwwok
+          Suka banget sama case anti bakteri ini
           </p>
           <div class="profile mt-auto">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/1200px-Sandy_Cheeks.svg.png" class="testimonial-img" alt="">
-            <h3>Asep Sentosa</h3>
-            <h4>Masyarakat</h4>
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Ayu</h3>
+            <h4>Mahasiswa</h4>
           </div>
         </div>
       </div><!-- End testimonial item -->
@@ -259,17 +262,85 @@
           <div class="stars">
             <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
           </div>
-          <p>
-          Awowkowkwo wkwowk wowkwok wokwkowkwo wkw owkw owkwok wokwkow kwowkwowkwo wkwokwwok wkowkwow wowkwowkwok wwokkowkwo wkwow wowk wokwwok
-          </p>
+          <p>Keren banget, stikernya estetik, packingnya rapi</p>
           <div class="profile mt-auto">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Squidward_Tentacles.svg/1200px-Squidward_Tentacles.svg.png" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Saskia</h3>
+            <h4>Mahasiswa</h4>
           </div>
         </div>
       </div><!-- End testimonial item -->
 
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+          </div>
+          <p>Keren, dapet bonus stiker, packing niat, dan admin ramah</p>
+          <div class="profile mt-auto">
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Anggara</h3>
+            <h4>Mahasiswa</h4>
+          </div>
+        </div>
+      </div><!-- End testimonial item -->
+    
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+          </div>
+          <p>Dapet sticker, bisa deco sendiri, packaging oke banget</p>
+          <div class="profile mt-auto">
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Namira</h3>
+            <h4>Mahasiswa</h4>
+          </div>
+        </div>
+      </div><!-- End testimonial item -->
+
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+          </div>
+          <p>Coating rapi, admin ramah, puas banget</p>
+          <div class="profile mt-auto">
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Amanda</h3>
+            <h4>Mahasiswa</h4>
+          </div>
+        </div>
+      </div><!-- End testimonial item -->
+
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+          </div>
+          <p>Casenya kokoh dan keren, pengiriman aman</p>
+          <div class="profile mt-auto">
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Dika</h3>
+            <h4>Mahasiswa</h4>
+          </div>
+        </div>
+      </div><!-- End testimonial item -->
+
+      <div class="swiper-slide">
+        <div class="testimonial-item">
+          <div class="stars">
+            <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+          </div>
+          <p>It's really beautiful, harganya sangat worth it</p>
+          <div class="profile mt-auto">
+            <img src="assets/img/dummy.jpg" class="testimonial-img" alt="">
+            <h3>Nia</h3>
+            <h4>Mahasiswa</h4>
+          </div>
+        </div>
+      </div><!-- End testimonial item -->
+    
     </div>
     <div class="swiper-pagination"></div>
   </div>
@@ -285,64 +356,57 @@
 
         <!-- Feature Icons -->
         <div class="row feature-icons" data-aos="fade-up" style="margin-top: 0px;">
-          <h3>Kenapa harus Case Antibakteri?</h3>
+          <h3>Kenapa harus beli Casturi?</h3>
 
           <div class="row">
 
             <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-              <img src="assets/img/product.png" class="img-fluid p-4" alt="produk" style="transform: rotate(-20deg);">
+              <img src="assets/img/product.png" class="img-fluid p-4" alt="produk" style="transform: rotate(-20deg);" style="width: 100px;">
             </div>
 
             <div class="col-xl-8 d-flex content">
               <div class="row align-self-center gy-4">
 
                 <div class="col-md-6 icon-box" data-aos="fade-up">
-                  <i class="ri-microscope-line"></i>
+                  <i class="ri-price-tag-3-line"></i>
                   <div>
-                    <h4>Sudah teruji anti bakteri secara labolatorium</h4>
-                    <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p>
+                    <h4>Harga terjangkau</h4>
+                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
                   </div>
                 </div>
 
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                  <i class="ri-stack-line"></i>
+                  <i class="ri-microscope-line"></i>
                   <div>
-                    <h4>Dikemas secara higenis</h4>
-                    <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p>
+                    <h4>Sudah teruji antibakteri oleh Laboratorium Dinas Kabupaten Banyumas</h4>
+                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
                   </div>
                 </div>
 
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                  <i class="ri-briefcase-4-line"></i>
+                  <i class="ri-health-book-line"></i>
                   <div>
-                    <h4>Kemasan Estetik</h4>
-                    <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p>
+                    <h4>Dikemas secara higenis dan estetik</h4>
+                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
                   </div>
                 </div>
 
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                  <i class="ri-bill-line"></i>
+                  <i class="ri-smartphone-line"></i>
                   <div>
-                    <h4>Dapet Freebies</h4>
-                    <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p>
+                    <h4>Banyak pilihan untuk tipe smartphone</h4>
+                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
                   </div>
                 </div>
 
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                  <i class="ri-smartphone-line"></i>
+                  <i class="ri-user-smile-line"></i>
                   <div>
-                    <h4>Banyak Pilihan</h4>
-                    <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p>
+                    <h4>Freebis yang lucu</h4>
+                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
                   </div>
                 </div>
 
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-                  <i class="ri-heart-line"></i>
-                  <div>
-                    <h4>Harga terjangkau</h4>
-                    <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p>
-                  </div>
-                </div>
 
               </div>
             </div>
@@ -391,7 +455,7 @@
           </div>
           
 
-          <div class="col-lg-4 col-6 footer-links">
+          <div class="col-lg-3 col-6 footer-links">
          
           </div>
           <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
@@ -421,7 +485,7 @@
         </div>
       </div>
     </div>
-      <div class="copyright" style="background-color: #dfe4b8;">
+      <div class="copyright">
         &copy; Copyright <strong><span>Casturi</span></strong>. All Rights Reserved
       </div>
   </footer><!-- End Footer -->
