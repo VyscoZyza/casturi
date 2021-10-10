@@ -197,7 +197,7 @@
           </div>
           
 
-          <div class="col-lg-4 col-6 footer-links">
+          <div class="col-lg-3 col-6 footer-links">
          
           </div>
           <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
@@ -227,7 +227,7 @@
         </div>
       </div>
     </div>
-      <div class="copyright" style="background-color: #dfe4b8;">
+      <div class="copyright">
         &copy; Copyright <strong><span>Casturi</span></strong>. All Rights Reserved
       </div>
   </footer><!-- End Footer -->
