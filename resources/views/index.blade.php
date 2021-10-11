@@ -55,8 +55,7 @@
       </nav>
   </header><!-- End Header -->
 
-  <section id="hero" class="hero d-flex align-items-center">
-
+  <section id="hero" class="hero d-flex align-items-center" >
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
@@ -70,7 +69,7 @@
           </div>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/logo casturi full.png" class="img-fluid" alt="logo casuri" width="350px">
+          <img src="assets/img/logo casturi full.png" class="img-fluid" alt="logo casuri" width="350px" style="padding-top: 200px;">
         </div>
       </div>
     </div>
@@ -361,7 +360,7 @@
           <div class="row">
 
             <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100">
-              <img src="assets/img/product.png" class="img-fluid p-4" alt="produk" style="transform: rotate(-20deg);" style="width: 100px;">
+              <img src="assets/img/product.png" class="img-fluid p-4" alt="produk" style="transform: rotate(-20deg);">
             </div>
 
             <div class="col-xl-8 d-flex content">
@@ -458,7 +457,7 @@
           <div class="col-lg-3 col-6 footer-links">
          
           </div>
-          <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+          <div class="col-lg-4 col-md-12 footer-contact text-center text-md-start">
             <h4>Find us on</h4>
             <p style="margin-bottom: 0;">
             <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
@@ -477,8 +476,12 @@
               Casturi
             </p>
             <p style="margin-bottom: 0;">
-            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 3px;"></a>
               Casturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.youtube.com/channel/UCkfzTPGNXw7tW-A0y-a-dFQ" class="youtube"><img src="assets/img/logo-youtube.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 0px;"></a>
+              Casturi Official
             </p>
           </div>
 
