@@ -13,7 +13,7 @@
 
   <!-- Favicons -->
 
-  <link rel="icon" href="assets/img/logo casturi.png">
+  <link rel="icon" href="assets/img/logo-casturi.png">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -200,7 +200,7 @@
           <div class="col-lg-3 col-6 footer-links">
          
           </div>
-          <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+          <div class="col-lg-4 col-md-12 footer-contact text-center text-md-start">
             <h4>Find us on</h4>
             <p style="margin-bottom: 0;">
             <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
@@ -219,8 +219,12 @@
               Casturi
             </p>
             <p style="margin-bottom: 0;">
-            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 3px;"></a>
               Casturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.youtube.com/channel/UCkfzTPGNXw7tW-A0y-a-dFQ" class="youtube"><img src="assets/img/logo-youtube.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 0px;"></a>
+              Casturi Official
             </p>
           </div>
 

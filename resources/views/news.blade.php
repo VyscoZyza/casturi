@@ -14,7 +14,7 @@
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-  <link rel="icon" href="assets/img/logo casturi.png">
+  <link rel="icon" href="assets/img/logo-casturi.png">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
@@ -126,69 +126,73 @@
   </main><!-- End #main -->
   <footer id="footer" class="footer">
 
-<div class="footer-top">
-  <div class="container">
-    <div class="row gy-4">
-      <div class="col-lg-3 col-md-12 footer-info">
-      <h4>Hubungi Kami</h4>
-        <p>
-          Sokaraja, Kab. Banyumas, 53181
-          Jawa Tengah, Indonesia <br><br>
-          <strong>Phone:</strong> +62 897-9957-587<br>
-          <strong>Email:</strong> casturi@gmail.com <br>
-        </p>  
-      <!-- <a href="index.html" class="logo d-flex align-items-center">
-          <img src="assets/img/logo-casturi.jpg" alt="">
-          <span>Casturi</span>
-        </a>
-        <p>Case Anti Bakteri</p>
-        <div class="social-links mt-3">
-          <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          <a href="https://www.instagram.com/icasturi/" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
+    <div class="footer-top">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-3 col-md-12 footer-info">
+          <h4>Hubungi Kami</h4>
+            <p>
+              Sokaraja, Kab. Banyumas, 53181
+              Jawa Tengah, Indonesia <br><br>
+              <strong>Phone:</strong> +62 897-9957-587<br>
+              <strong>Email:</strong> casturi@gmail.com <br>
+            </p>  
+          <!-- <a href="index.html" class="logo d-flex align-items-center">
+              <img src="assets/img/logo-casturi.jpg" alt="">
+              <span>Casturi</span>
+            </a>
+            <p>Case Anti Bakteri</p>
+            <div class="social-links mt-3">
+              <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              <a href="https://www.instagram.com/icasturi/" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
+    
+            </div> -->
+          </div>
 
-        </div> -->
-      </div>
+          <div class="col-lg-2 col-6 footer-links">
+          
+          </div>
+          
 
-      <div class="col-lg-2 col-6 footer-links">
-      
-      </div>
-      
+          <div class="col-lg-3 col-6 footer-links">
+         
+          </div>
+          <div class="col-lg-4 col-md-12 footer-contact text-center text-md-start">
+            <h4>Find us on</h4>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi - Case Smartphone Antibakteri
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Icasturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.instagram.com/icasturi/" class="instagram"><img src="assets/img/logo-instagram.png" alt="logo-instagram" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              @icasturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.facebook.com/Casturi-105868865052379/" class="facebook"><img src="assets/img/logo-facebook.png" alt="logo-facebook" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
+              Casturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 3px;"></a>
+              Casturi
+            </p>
+            <p style="margin-bottom: 0;">
+            <a href="https://www.youtube.com/channel/UCkfzTPGNXw7tW-A0y-a-dFQ" class="youtube"><img src="assets/img/logo-youtube.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 0px;"></a>
+              Casturi Official
+            </p>
+          </div>
 
-      <div class="col-lg-3 col-6 footer-links">
-     
+        </div>
       </div>
-      <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-        <h4>Find us on</h4>
-        <p style="margin-bottom: 0;">
-        <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-tokopedia" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          Casturi - Case Smartphone Antibakteri
-        </p>
-        <p style="margin-bottom: 0;">
-        <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          Icasturi
-        </p>
-        <p style="margin-bottom: 0;">
-        <a href="https://www.instagram.com/icasturi/" class="instagram"><img src="assets/img/logo-instagram.png" alt="logo-instagram" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          @icasturi
-        </p>
-        <p style="margin-bottom: 0;">
-        <a href="https://www.facebook.com/Casturi-105868865052379/" class="facebook"><img src="assets/img/logo-facebook.png" alt="logo-facebook" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          Casturi
-        </p>
-        <p style="margin-bottom: 0;">
-        <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          Casturi
-        </p>
-      </div>
-
     </div>
-  </div>
-</div>
-  <div class="copyright">
-    &copy; Copyright <strong><span>Casturi</span></strong>. All Rights Reserved
-  </div>
-</footer><!-- End Footer -->
+      <div class="copyright">
+        &copy; Copyright <strong><span>Casturi</span></strong>. All Rights Reserved
+      </div>
+  </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short" style="color:#000"></i></a>
 
