@@ -135,7 +135,7 @@
               Sokaraja, Kab. Banyumas, 53181
               Jawa Tengah, Indonesia <br><br>
               <strong>Phone:</strong> +62 897-9957-587<br>
-              <strong>Email:</strong> casturi@gmail.com <br>
+              <strong>Email:</strong> casturiofficial@gmail.com <br>
             </p>  
           <!-- <a href="index.html" class="logo d-flex align-items-center">
               <img src="assets/img/logo-casturi.jpg" alt="">
@@ -166,7 +166,7 @@
             </p>
             <p style="margin-bottom: 0;">
             <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-              Icasturi
+              casturiofficial
             </p>
             <p style="margin-bottom: 0;">
             <a href="https://www.instagram.com/icasturi/" class="instagram"><img src="assets/img/logo-instagram.png" alt="logo-instagram" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
@@ -177,8 +177,8 @@
               Casturi
             </p>
             <p style="margin-bottom: 0;">
-            <a href="#tiktok" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 3px;"></a>
-              Casturi
+            <a href="https://vt.tiktok.com/ZSe8TofbA/" class="tiktok"><img src="assets/img/logo-tiktok.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 3px;"></a>
+              icasturi
             </p>
             <p style="margin-bottom: 0;">
             <a href="https://www.youtube.com/channel/UCkfzTPGNXw7tW-A0y-a-dFQ" class="youtube"><img src="assets/img/logo-youtube.png" alt="logo-tiktok" width="20px" style="padding: 0px; margin-bottom: 0px;"></a>
