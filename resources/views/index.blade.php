@@ -69,7 +69,7 @@
           </div>
         </div>
         <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/logo casturi full.png" class="img-fluid" alt="logo casuri" width="350px" style="padding-top: 200px;">
+          <img src="assets/img/logo casturi full.png" class="img-fluid" alt="logo casuri" width="300px" style="margin-top: 200px;">
         </div>
       </div>
     </div>
