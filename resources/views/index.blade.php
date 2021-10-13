@@ -95,10 +95,7 @@
         <img src="assets/img/product/Foto Produk_Akrilik.jpg" width="400px" class="img-fluid" alt="">
         <ul>
           <li>Produk terbuat dari bahan akrilik yang memiliki karakteristik kokoh dan tidak mudah pecah</li>
-          <!-- <li>Nec feugiat nisl</li>
-          <li>Nulla at volutpat dola</li>
-          <li class="na">Pharetra massa</li>
-          <li class="na">Massa ultricies mi</li> -->
+
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-Akrilik-i.491072552.9079177891" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
@@ -114,10 +111,7 @@
         <img src="assets/img/product/Foto Produk_TPU.jpg" width="400px" class="img-fluid" alt="">
         <ul>
           <li>Produk terbuat dari bahan TPU yang memiliki karakteristik lentur dan lembut digenggam</li>
-          <!-- <li>Nec feugiat nisl</li>
-          <li>Nulla at volutpat dola</li>
-          <li class="na">Pharetra massa</li>
-          <li class="na">Massa ultricies mi</li> -->
+
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-bahan-TPU-i.491072552.8979665412" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
@@ -164,10 +158,7 @@
         <img src="assets/img/product/Foto Produk_Star.jpg" width="400px" class="img-fluid" alt="">
         <ul>
           <li>Produk terbuat dari bahan TPU dengan gambar Bintang dan Planet yang menambah kesan estetik</li>
-          <!-- <li>Nec feugiat nisl</li>
-          <li>Nulla at volutpat dola</li>
-          <li class="na">Pharetra massa</li>
-          <li class="na">Massa ultricies mi</li> -->
+
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/casturiofficial" class="btn-buy" target="_blank" rel="noopener noreferrer"style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
@@ -370,7 +361,7 @@
                   <i class="ri-price-tag-3-line"></i>
                   <div>
                     <h4>Harga terjangkau</h4>
-                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
+                    
                   </div>
                 </div>
 
@@ -378,7 +369,7 @@
                   <i class="ri-microscope-line"></i>
                   <div>
                     <h4>Sudah teruji antibakteri oleh Laboratorium Dinas Kabupaten Banyumas</h4>
-                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
+                    
                   </div>
                 </div>
 
@@ -386,7 +377,7 @@
                   <i class="ri-health-book-line"></i>
                   <div>
                     <h4>Dikemas secara higenis dan estetik</h4>
-                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
+                    
                   </div>
                 </div>
 
@@ -394,7 +385,7 @@
                   <i class="ri-smartphone-line"></i>
                   <div>
                     <h4>Banyak pilihan untuk tipe smartphone</h4>
-                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
+                    
                   </div>
                 </div>
 
@@ -402,7 +393,7 @@
                   <i class="ri-user-smile-line"></i>
                   <div>
                     <h4>Freebis yang lucu</h4>
-                    <!-- <p>Awowkwok wokwowkwok wokwokwokow wokwokwok wok kwokw okw </p> -->
+                    
                   </div>
                 </div>
 
@@ -436,17 +427,7 @@
           <strong>Phone:</strong> +62 897-9957-587<br>
           <strong>Email:</strong> casturiofficial@gmail.com <br>
         </p>  
-      <!-- <a href="index.html" class="logo d-flex align-items-center">
-          <img src="assets/img/logo-casturi.jpg" alt="">
-          <span>Casturi</span>
-        </a>
-        <p>Case Anti Bakteri</p>
-        <div class="social-links mt-3">
-          <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-          <a href="https://www.instagram.com/icasturi/" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
 
-        </div> -->
       </div>
 
       <div class="col-lg-2 col-6 footer-links">

@@ -137,17 +137,7 @@
               <strong>Phone:</strong> +62 897-9957-587<br>
               <strong>Email:</strong> casturiofficial@gmail.com <br>
             </p>  
-          <!-- <a href="index.html" class="logo d-flex align-items-center">
-              <img src="assets/img/logo-casturi.jpg" alt="">
-              <span>Casturi</span>
-            </a>
-            <p>Case Anti Bakteri</p>
-            <div class="social-links mt-3">
-              <a href="https://www.tokopedia.com/icasturi" class="twitter"><img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-              <a href="https://shopee.co.id/casturiofficial" class="facebook"><img src="assets/img/logo-shopee.png" alt="logo-shopee" width="20px" style="padding: 0px; margin-bottom: 5px;"></a>
-              <a href="https://www.instagram.com/icasturi/" class="instagram"><i class="bi bi-instagram bx bxl-instagram"></i></a>
-    
-            </div> -->
+        
           </div>
 
           <div class="col-lg-2 col-6 footer-links">
