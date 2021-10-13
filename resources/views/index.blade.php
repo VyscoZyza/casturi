@@ -139,10 +139,6 @@
         <img src="assets/img/product/Foto Produk_Nasa.jpg" width="400px" class="img-fluid" alt="">
         <ul>
           <li>Produk terbuat dari bahan TPU dengan gambar Nasa yang menambah kesan estetik</li>
-          <!-- <li>Nec feugiat nisl</li>
-          <li>Nulla at volutpat dola</li>
-          <li class="na">Pharetra massa</li>
-          <li class="na">Massa ultricies mi</li> -->
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-i.491072552.8085801130" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
@@ -151,21 +147,7 @@
       </div>
     </div>
 
-    <div class="col-lg-5 col-md-6" data-aos="zoom-in" data-aos-delay="100" style="margin-right: auto; margin-left: auto">
-      <div class="box">
-        <h2 style="color: #000000;">Star</h2>
-       
-        <img src="assets/img/product/Foto Produk_Star.jpg" width="400px" class="img-fluid" alt="">
-        <ul>
-          <li>Produk terbuat dari bahan TPU dengan gambar Bintang dan Planet yang menambah kesan estetik</li>
-
-        </ul>
-        <div class="price"><sup>RP</sup>30.000<span></span></div>
-        <a href="https://shopee.co.id/casturiofficial" class="btn-buy" target="_blank" rel="noopener noreferrer"style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        &nbsp;<a href="https://www.tokopedia.com/icasturi" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-tokopedia.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
-        &nbsp; <a href="https://api.whatsapp.com/send/?phone=628979957587&text&app_absent=0" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-whatsapp.png" alt="logo-whatsapp" width="30px" style="padding: 0px;">&nbsp Beli</a>
-      </div>
-    </div>
+    
   </div>
 
 </div>
