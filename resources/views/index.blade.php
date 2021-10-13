@@ -139,10 +139,6 @@
         <img src="assets/img/product/Foto Produk_Nasa.jpg" width="400px" class="img-fluid" alt="">
         <ul>
           <li>Produk terbuat dari bahan TPU dengan gambar Nasa yang menambah kesan estetik</li>
-          <!-- <li>Nec feugiat nisl</li>
-          <li>Nulla at volutpat dola</li>
-          <li class="na">Pharetra massa</li>
-          <li class="na">Massa ultricies mi</li> -->
         </ul>
         <div class="price"><sup>RP</sup>30.000<span></span></div>
         <a href="https://shopee.co.id/Casturi-Case-Smartphone-Hp-Antibakteri-untuk-Iphone-Vivo-Oppo-Xiaomi-Samsung-i.491072552.8085801130" class="btn-buy" target="_blank" rel="noopener noreferrer" style="margin-top: 10px;"> <img src="assets/img/logo-shopee.png" alt="logo-shopee" width="30px" style="padding: 0px;">&nbsp Beli</a>
