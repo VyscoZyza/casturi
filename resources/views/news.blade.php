@@ -68,6 +68,15 @@
   </header>
 
   <div class="row">
+  <div class="col-lg-4 mt-5">
+      <div class="post-box">
+        <div class="post-img"><img src="assets/img/post20oct.jpeg" class="img-fluid" alt="title" ></div>
+        <span class="post-date">13 Oktober 2021</span>
+        <h3 class="post-title">Mahasiswa Undip Sulap Daun Ketapang Menjadi Case Smartphone Antibakteri</h3>
+        <p class="post-content">CASTURI "Case Smarthphone Antibakteri" merupakan sebuah inovasi produk casing smarthphone  antibakteri yang dikembangkan oleh lima mahasiswa Universitas Diponegoro (Undip). Inovasi ini diketuai oleh Galih Wiji Agung, dan 4 anggota yaitu Fakhri Santo Khoirudin, Risya Ulaya Maghfirah, Umi Widi Astuti, dan Wakhyu Nur Afni.</p>
+        <a href="https://www.kompasiana.com/umiwidiastuti9718/6166efaf06310e052947be02/mahasiswa-undip-sulap-daun-ketapang-menjadi-case-smartphone-antibakteri" class="readmore stretched-link mt-auto"><span>Kompasiana</span><i class="bi bi-arrow-right"></i></a>
+      </div>
+    </div>
 
     <div class="col-lg-4 mt-5">
       <div class="post-box">
@@ -89,15 +98,7 @@
       </div>
     </div>
 
-    <div class="col-lg-4 mt-5">
-      <div class="post-box">
-        <div class="post-img"><img src="https://cdn.murianews.com/wp-content/uploads/2021/08/01140301/casturi-e.jpg" class="img-fluid" alt="title" height="100px"></div>
-        <span class="post-date">1 Agustus 2021</span>
-        <h3 class="post-title">Berbekal Daun Ketapang, Mahasiswa Undip Ciptakan Case Smartphone Antibakteri</h3>
-        <p class="post-content">MURIANEWS, Semarang – Sekelompok mahasiswa Fakultas Teknik Universitas Diponegoro (Undip) Semarang menciptakan produk case smartphone yang dinamai Casturi. Case HP tersebut, diklaim antibakteri dengan bahan baku nanosilver yang dipadukan dengan daun ketapang.</p>
-        <a href="https://www.murianews.com/2021/08/01/231339/berbekal-daun-ketapang-mahasiswa-undip-ciptakan-case-smartphone-antibakteri" class="readmore stretched-link mt-auto"><span>Muria News</span><i class="bi bi-arrow-right"></i></a>
-      </div>
-    </div>
+
 
   </div>
   
@@ -107,6 +108,15 @@
 <header class="section-header">
   </header>
   <div class="row">
+  <div class="col-lg-4 mt-5">
+      <div class="post-box">
+        <div class="post-img"><img src="https://cdn.murianews.com/wp-content/uploads/2021/08/01140301/casturi-e.jpg" class="img-fluid" alt="title" height="100px"></div>
+        <span class="post-date">1 Agustus 2021</span>
+        <h3 class="post-title">Berbekal Daun Ketapang, Mahasiswa Undip Ciptakan Case Smartphone Antibakteri</h3>
+        <p class="post-content">MURIANEWS, Semarang – Sekelompok mahasiswa Fakultas Teknik Universitas Diponegoro (Undip) Semarang menciptakan produk case smartphone yang dinamai Casturi. Case HP tersebut, diklaim antibakteri dengan bahan baku nanosilver yang dipadukan dengan daun ketapang.</p>
+        <a href="https://www.murianews.com/2021/08/01/231339/berbekal-daun-ketapang-mahasiswa-undip-ciptakan-case-smartphone-antibakteri" class="readmore stretched-link mt-auto"><span>Muria News</span><i class="bi bi-arrow-right"></i></a>
+      </div>
+    </div>
 
     <div class="col-lg-4 mt-5">
       <div class="post-box">
